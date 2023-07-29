@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `ghéc anh kinh khủng đấy
     vẫn ghéc đấy điều quan trọng nhắc lại 2 lần
     mà cứ ghéc của nào trời trao của đó ý`,
-    btnIntro: 'yêu anh so much',
+    btnIntro: 'vẫn iu em so much',
     title: 'yêu hay yêu không yêu buộc yêu',
     desc: 'thế coá iu tui hong thì bảooo ',
     btnYes: 'ghéc em',
