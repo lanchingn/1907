@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'bbi của em àaa ',
-    introDesc: `trái đất vốn lạ thường
-    mà sao em cứ đi nhầm đường
-    lạc vào tim anh lẻ loi
-    đằng sau chữ yêu đây là thương`,
-    btnIntro: 'kakaka mì gók nhưng yêu anh',
-    title: 'phải chăng em đã yêu ngay từ cái nhìn đầu tiên',
-    desc: 'phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'yêu anh nhất quả đất',
-    btnNo: 'vẫn là yêu anh siêu nhiều ',
-    question:'trên thế giới hơn 7 tỉ người mà sao anh lại yêu em ',
-    btnReply: 'love uu bbi',
-    reply: 'yêu thì yêu không yêu buộc yêu ',
-    mess: 'em yêu anh',
-    messDesc: 'hết dịch rồi mình đi date nhó bbi.',
-    btnAccept: 'oki bbi',
+    introTitle: 'ngui iu siu cap dep trai ',
+    introDesc: `ghéc anh kinh khủng đấy
+    vẫn ghéc đấy điều quan trọng nhắc lại 2 lần
+    mà cứ ghéc của nào trời trao của đó ý`,
+    btnIntro: 'yêu anh so much',
+    title: 'yêu hay yêu không yêu buộc yêu',
+    desc: 'thế coá iu tui hong thì bảooo ',
+    btnYes: 'ghéc em',
+    btnNo: 'iu em lắm ',
+    question:'á à dám ghéc tui ư!? trình bày ngay lí do ghéc tui',
+    btnReply: 'iu bún xinh ',
+    reply: 'ghệ anh là no1 tuyệt vời nhất ',
+    mess: 'bớt dey anh iu',
+    messDesc: 'chúc mừng xinh nhựt anh iuiu phải iu em nhìu hơn nữa nữa nhá',
+    btnAccept: 'yes i do - anh đồng í',
      messLink: 'https://www.facebook.com/nguyenlanchiii'
 }
