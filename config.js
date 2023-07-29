@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'iu bún xinh ',
     reply: 'ghệ anh là no1 tuyệt vời nhất ',
     mess: 'bớt dey anh iu',
-    messDesc: 'chúc mừng xinh nhựt anh iuiu phải iu em nhìu hơn nữa nữa nhá',
+    messDesc: 'chúc mừng xinh nhựt anh iuiu phải iu em nhìu hơn nữa nữa nhá hẹn bồ em tối nayyy',
     btnAccept: 'yes i do - anh đồng í',
      messLink: 'https://www.facebook.com/nguyenlanchiii'
 }
